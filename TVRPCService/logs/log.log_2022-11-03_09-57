@@ -1,0 +1,4 @@
+[2022-11-03 09:57:17.097] [TVRPCSERVICE] [info] 中控地址: http://127.0.0.1:8080
+[2022-11-03 09:57:17.143] [TVRPCSERVICE] [info] 中控地址: http://127.0.0.1:8080
+[2022-11-03 09:57:17.147] [TVRPCSERVICE] [info] Running server @ 8880 ...
+[2022-11-03 09:57:49.922] [TVRPCSERVICE] [error] proc_save_recipe_TV @ 537, fault_string : No member of struct has key 'line' fault_code -502)

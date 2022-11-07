@@ -1,0 +1,8 @@
+#gitignore
+/@bin
+/@3rd
+/@tmp
+/Debug
+/msvc-12.0
+/msvc-14.0
+
